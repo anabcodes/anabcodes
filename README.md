@@ -1,4 +1,4 @@
-<h2 align="left">Oi! Meu GitHub é uma mistura de ideias, café e muita vontade de criar. Sinta-se em casa! ☕✨"</h2>
+<h2 align="left">Oi! Meu GitHub é uma mistura de ideias, café e muita vontade de criar. Sinta-se em casa! ☕✨</h2>
 
 ###
 
