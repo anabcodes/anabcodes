@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anabraghim/anabraghim/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anabcodes/anabcodes/output/snake.svg" alt="Snake animation" />
 
 ###
